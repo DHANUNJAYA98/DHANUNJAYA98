@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/DHANUNJAYA98/
 
-- 📫 How to reach me **dhanunjaya.namburi**
+- 📫 How to reach me **dhanunjaya.namburi@gmail.com**
 
 
 
