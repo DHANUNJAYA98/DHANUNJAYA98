@@ -4,7 +4,6 @@
 - 👨‍💻 All of my projects are available at https://github.com/DHANUNJAYA98/
 
 - 📫 How to reach me **dhanunjaya.namburi@gmail.com**
-
 <br>
 <img align="right" src="https://komarev.com/ghpvc/?username=your-github-DHANUNJAYA98&style=flat-square&color=232323">
 <hr>
