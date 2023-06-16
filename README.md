@@ -4,6 +4,22 @@
 - 👨‍💻 All of my projects are available at https://github.com/DHANUNJAYA98/
 
 - 📫 How to reach me **dhanunjaya.namburi@gmail.com**
+- !D![Dhanunjaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHANUNJAYA98&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=7F1DA2&bg_color=0D111700)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUNJAYA98&theme=radical&title_color=F16707&hide_border=true" width="335px" data-canonical->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DHANUNJAYA98&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=E7E7E7FF&sideLabels=EFEFE6&dates=4F5D78&stroke=7F1DA2)](https://git.io/streak-stats)
+<br>
+<img align="right" src="https://komarev.com/ghpvc/?username=your-github-DHANUNJAYA98&style=flat-square&color=232323">
+<hr>![Dhanunjaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHANUNJAYA98&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=7F1DA2&bg_color=0D111700)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandiniinj&theme=radical&title_color=F16707&hide_border=true" width="335px" data-canonical->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DHANUNJAYA98&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=E7E7E7FF&sideLabels=EFEFE6&dates=4F5D78&stroke=7F1DA2)](https://git.io/streak-stats)
+<br>
+<img align="right" src="https://komarev.com/ghpvc/?username=your-github-DHANUNJAYA98&style=flat-square&color=232323">
+<hr> GitHub stats](https://github-readme-stats.vercel.app/api?username=DHANUNJAYA98&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=7F1DA2&bg_color=0D111700)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandiniinj&theme=radical&title_color=F16707&hide_border=true" width="335px" data-canonical->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DHANUNJAYA98&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=E7E7E7FF&sideLabels=EFEFE6&dates=4F5D78&stroke=7F1DA2)](https://git.io/streak-stats)
+<br>
+<img align="right" src="https://komarev.com/ghpvc/?username=your-github-DHANUNJAYA98&style=flat-square&color=232323">
+<hr>
 
 
 
